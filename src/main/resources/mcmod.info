@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "TFCraftaddon",
+    "name": "Harvest Grass Event",
+    "description": "Enables Grass to Drop Items.",
+    "version": "${mod_version}",
+    "mcversion": "${minecraft_version}",
+    "url" : "",
+    "updateUrl": "",
+    "authorList": ["Beingben"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [  ],
+    "parent": "",
+    "requiredMods": ["terrafirmacraft"],
+    "dependencies": ["after:TerraFirmaCraft"],
+    "dependants": [  ],
+    "useDependencyInformation": "true"
+  }]
+}
